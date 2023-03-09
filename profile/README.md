@@ -20,3 +20,5 @@ Taiko is a fully decentralized, Ethereum-equivalent ZK-Rollup.
 - **View the protocol**: [taiko-mono](https://github.com/taikoxyz/taiko-mono/tree/main/packages/protocol)
 
 - **Contribute**: [CONTRIBUTING.md](https://github.com/taikoxyz/taiko-mono/blob/main/CONTRIBUTING.md)
+
+- **See the roadmap**: [mirror](https://mirror.xyz/labs.taiko.eth/NfYQFzzkcEIy3jU9PTBo-nem2HlNiZre-3WwLnbGnwQ)
